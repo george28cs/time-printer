@@ -1,0 +1,20 @@
+{
+  "name": "time-printer",
+  "version": "1.0.0",
+  "description": "print current time",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "javascript",
+    "typescript",
+    "npm"
+  ],
+  "author": "Jorge Carrion <jorge_28cs@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "3.4.3"
+  }
+}
