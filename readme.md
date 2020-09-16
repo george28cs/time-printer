@@ -1,10 +1,10 @@
 # hour-printer
->Get a formatted current timestamp. 
-Output language: spanish
-Example: 
-Current time: 08:00 PM
-Output:
-"Ocho de la noche en punto"
+>Get a formatted current timestamp.  
+Output language: spanish  
+Example:  
+Current time: 08:00 PM  
+Output:  
+"Ocho de la noche en punto"  
 
  - [Install](#install)
  - [Usage](#usage)
