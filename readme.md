@@ -53,6 +53,12 @@ MIT
 ### v.1.0.0
 stable version
 
+### v.1.0.1
+Readme updated: Package title
+
+### v.1.0.2
+Readme updated: History versions updated
+
 ## Publication date
 2020-09-16
 
