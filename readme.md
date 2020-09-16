@@ -1,4 +1,4 @@
-# hour-printer
+# time-printer
 >Get a formatted current timestamp.  
 Output language: spanish  
 Example:  
@@ -11,6 +11,7 @@ Output:
  - [License](#license)
  - [Release history](#release-history)
  - [Publication Date](#publication-date)
+ - [GitHub](#github)
 
 ##	Install
 Install whith [npm](https://www.npmjs.com/) 
@@ -54,3 +55,6 @@ stable version
 
 ## Publication date
 2020-09-16
+
+## GitHub
+[https://github.com/george28cs/time-printer.git](https://github.com/george28cs/time-printer.git)
